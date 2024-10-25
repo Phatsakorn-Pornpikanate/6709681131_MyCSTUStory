@@ -112,31 +112,6 @@ main
     margin: 20px;
 }
 
-@media (max-width: 768px) {
-    .menu {
-        display: flex;
-        flex-direction: column;
-    }
-    
-    .dropbtn {
-        width: 100%;
-        padding: 15px;
-    }
-    
-    .content {
-        padding: 10px;
-    }
-}
-
-@media (max-width: 480px) {
-    h1, h2 {
-        font-size: 1.5em;
-    }
-    
-    nav, footer {
-        padding: 10px 0;
-    }
-}
 
 .mainfuture
 {
